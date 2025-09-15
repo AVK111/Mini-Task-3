@@ -27,4 +27,9 @@ Data Spread: KDE plots show the weight distribution is right-skewed, meaning mos
 ![alt text](<Visual_Output/bar_Common Name.png>)
 ![alt text](Visual_Output/bar_Family.png)
 ![alt text](<Visual_Output/bar_Scientific Name.png>)
-
+![alt text](<Visual_Output/box_Observed Length (m).png>)
+![alt text](<Visual_Output/box_Observed Weight (kg).png>)
+![alt text](Visual_Output/corr_matrix.png)
+![alt text](Visual_Output/kde_weight.png)
+![alt text](Visual_Output/swarm_length_vs_weight.png)
+![alt text](Visual_Output/violin_length.png)
