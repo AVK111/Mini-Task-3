@@ -6,3 +6,4 @@ Length & Weight: There is a strong positive correlation (~0.84) between observed
 Outliers: Both length and weight show outliers, suggesting unusually large or small observations compared to the majority.
 Variation Across Species: Boxplots and violin plots highlight size variation across different species/families.
 Data Spread: KDE plots show the weight distribution is right-skewed, meaning most crocodiles weigh less, but a few very heavy ones pull the average up.
+![alt text](<Visual_Output/bar_Common Name copy.png>)
