@@ -23,5 +23,8 @@ Data Spread: KDE plots show the weight distribution is right-skewed, meaning mos
 
 5. Weight Distribution: KDE plots show a right-skewed distribution, meaning most crocodiles are lighter, while a few very heavy ones increase the overall range.
 
-
+![alt text](<Visual_Output/bar_Common Name copy.png>)
+![alt text](<Visual_Output/bar_Common Name.png>)
+![alt text](Visual_Output/bar_Family.png)
+![alt text](<Visual_Output/bar_Scientific Name.png>)
 
